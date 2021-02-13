@@ -1,0 +1,16 @@
+.AddButtonForm {
+    margin-top: 5%;
+    padding: 1% 0;
+    width: 100%;
+    float: left;
+    padding-left: 2%;
+    border: 1px solid #ccc;
+    outline: none;
+    border-radius: 360px;
+    background-color: white;
+    cursor: pointer;
+}
+
+.AddButtonForm:disabled {
+    cursor: not-allowed;
+}

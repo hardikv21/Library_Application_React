@@ -1,0 +1,19 @@
+.BookStore {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    font-size: 12px;
+}
+
+.AddButton {
+    margin-top: 5%;
+    margin-bottom: 2%;
+    padding: 1% 0;
+    width: 100%;
+    float: left;
+    padding-left: 2%;
+    border: 1px solid black;
+    outline: none;
+    border-radius: 360px;
+    background-color: white;
+}
